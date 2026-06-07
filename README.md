@@ -43,11 +43,7 @@ The website includes a hero section, banking features, latest articles, a respon
 
 > Add your project screenshot inside the `images` folder and name it `screenshot.png`
 
-```md
-![Digital Bank Landing Page](./images/screenshot.png)
-```
-
----
+## ![Digital Bank Landing Page](images/screenshot.png)
 
 ## 📂 Project Structure
 
