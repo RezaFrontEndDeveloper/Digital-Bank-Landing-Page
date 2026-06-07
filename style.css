@@ -17,6 +17,13 @@
   padding: 0;
   box-sizing: border-box;
 }
+/* html {
+  overflow-x: hidden;
+} */
+/* .relative {
+  position: relative;
+  overflow: hidden;
+} */
 
 body {
   margin: 100px 0;

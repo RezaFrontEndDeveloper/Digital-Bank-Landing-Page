@@ -133,7 +133,7 @@ Some of the challenges faced during development included:
 
 ## 👨‍💻 Author
 
-**Mohammadreza**
+**Reza Akbari**
 
 GitHub Profile:
 https://github.com/RezaFrontEndDeveloper
